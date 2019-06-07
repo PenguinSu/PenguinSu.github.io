@@ -1,3 +1,0 @@
-# Ignore dataset #
-##################
-/node_modules

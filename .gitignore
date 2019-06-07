@@ -1,0 +1,13 @@
+# Ignore sublime file #
+#######################
+*.sublime-project
+*.sublime-workspace
+
+# Ignore dataset #
+##################
+/node_modules
+
+# Ignore React.js files #
+#########################
+/app.js
+*.json
