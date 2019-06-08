@@ -31,12 +31,12 @@ nav a {
 	text-decoration: none;
 	margin: 5px 15px;
 	font-size: 1.5rem;
-	color: hsl(60, 95%, 75%);
+	color: hsl(60, 90%, 85%);
 }
 
 .intro-text {
 	font-size: 2.5rem;
-	color: hsl(60, 100%, 80%);
+	color: hsl(60, 90%, 85%);
 	margin: 180px auto;
 	width: 50%;
 }
