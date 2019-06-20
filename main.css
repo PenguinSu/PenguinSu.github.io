@@ -28,8 +28,7 @@ nav {
 	font-family: 'Playfair Display', serif;
 	position: fixed;
 	width: 100%;
-	margin: 1em 0;
-	padding: 1em 2rem;
+	padding: 2rem;
 	z-index: 1;
 }
 
@@ -68,6 +67,11 @@ nav a {
 	box-shadow: 0 1px 5px grey;
 }
 
+.profile {
+	float: left;
+	padding: 0 10%;
+}
+
 #home {
 	text-align: center;
 	background-color: hsla(266, 80%, 60%, 0.4);
@@ -87,7 +91,7 @@ nav a {
 	text-align: center;
 	color: hsla(266, 20%, 30%);
 	font-size: 2rem;
-	padding: 3.5rem 0; 
+	padding: 4rem 0; 
 }
 
 /* Responsive */

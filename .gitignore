@@ -3,9 +3,10 @@
 *.sublime-project
 *.sublime-workspace
 
-# Ignore dataset #
+# Ignore folders #
 ##################
 /node_modules
+/react-pages
 
 # Ignore React.js files #
 #########################
